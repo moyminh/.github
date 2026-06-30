@@ -1,0 +1,29 @@
+Intel Graphics Panther Lake (2.3 GHz 2 Xe) Specifications
+"30/06/2026, 22:45:38"
+via PC Tracker for Android
+https://pctracker.ru
+
+
+Essentials
+Model,"Graphics Panther Lake"
+Manufacturer,"Intel"
+Series,"Arc Graphics (Cougar Cove)"
+Segment,"Embedded"
+Launch date,"2026"
+Device ID,"0xB090"
+
+GPU Specifications
+GPU boost clock,"2300 MHz"
+
+Render
+Execution Units,"2"
+API,"DirectX 12 Ultimate, OpenGL 4.6, OpenCL 3.0"
+
+Output
+Outputs,"eDP1.5, DP 2.1 UHBR20, HDMI 2.1 FRL"
+Max Resolution,"DP 7680 x 4320 @ 60Hz, eDP - Integrated Flat Panel 3840 x 2400 @ 120Hz"
+Displays Supported,"4"
+
+Used in CPUs
+Core Ultra 5 322
+Core Ultra 5 332
