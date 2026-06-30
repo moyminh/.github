@@ -1,0 +1,42 @@
+AMD Radeon R5 A330 Specifications
+"01/07/2026, 05:27:38"
+via PC Tracker for Android
+https://pctracker.ru
+
+
+Essentials
+Model,"Radeon R5 A330"
+Manufacturer,"AMD"
+Series,"Radeon 300 series"
+Level,"Entry-level"
+Segment,"Mobile"
+Launch date,"Oct 21st, 2015"
+
+GPU Specifications
+GPU name,"Exo"
+Architecture,"GCN 1.0"
+GPU base clock,"1030 MHz"
+
+Memory
+Memory size,"2 GB"
+Memory clock,"900 MHz"
+Memory type,"DDR3"
+Memory Bus,"64 bit"
+Memory Bandwidth,"14.4 GB/s"
+
+Performance
+Pixel Rate,"8.24 GPixel/s"
+Texture Rate,"20.6 GTexel/s"
+FP32,"659.2 GFLOPS"
+
+Render
+Shading Units,"320"
+ROPs,"8"
+TMUs,"20"
+Compute Units,"5"
+L1 Cache,"16 KB (per CU)"
+L2 Cache,"128 KB"
+API,"Direct3D 12 (11_1), OpenGL 4.6, OpenCL 2.1 (1.2), Vulkan 1.2.170"
+
+Board Design
+Bus interface,"PCIe 3.0 x8"
